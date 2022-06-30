@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Aleksey!
+
+- 🔭Currently, I have completed my training at SkillFactory, the Python Developer Profession course.
+
+- 🌱 Currently I work at the TOYOTA plant in St. Petersburg.
+
+- 👯 I’m looking for opportunities for development and cooperation.
 
 <!--
 **SPAWN21043/SPAWN21043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
